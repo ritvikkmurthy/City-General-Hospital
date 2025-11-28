@@ -1,0 +1,5 @@
+{
+  "name": "City General Reception",
+  "description": "A helpful AI hospital receptionist to assist patients with timings, appointments, and general hospital queries.",
+  "requestFramePermissions": []
+}
